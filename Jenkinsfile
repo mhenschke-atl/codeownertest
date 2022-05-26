@@ -11,6 +11,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing...'
+                echo 'need another echo in here'
                 sh 'mvn test'
             }
             post {
