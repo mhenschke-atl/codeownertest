@@ -1,5 +1,5 @@
 Jenkinsfile @nitrogenfingers
 
-main/java/com/example/mhenschke/*.java @mhenschke-atl
-
 src/** @dyongeorgopoulos
+
+**.java @nitrogenfingers
