@@ -1,5 +1,5 @@
 src/** @dyongeorgopoulos
 
-**.java @nitrogenfingers
+**/*.java @nitrogenfingers
 
-src/test/**.xml @dkjellin
+src/test/**/*.xml @dkjellin
