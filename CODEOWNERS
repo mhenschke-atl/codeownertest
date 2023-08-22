@@ -1,5 +1,1 @@
-src/** @dyongeorgopoulos
-
 **/*.java @nitrogenfingers
-
-src/test/**/*.xml @dkjellin
